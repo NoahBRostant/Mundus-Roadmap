@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cajybu81e0uy5"
-path="res://.godot/imported/index.png-df4a940b89684b717d24f03ebadbc694.ctex"
+uid="uid://cvhvuo2wg2121"
+path="res://.godot/imported/index.png-b259ab16718bc210c505332965363aff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://exports/gitbuild/Mundus-Roadmap/index.png"
-dest_files=["res://.godot/imported/index.png-df4a940b89684b717d24f03ebadbc694.ctex"]
+source_file="res://exports/index.png"
+dest_files=["res://.godot/imported/index.png-b259ab16718bc210c505332965363aff.ctex"]
 
 [params]
 
